@@ -3,6 +3,10 @@ New Feature:add favicon.ico.
 add Glow teks,Change the navbar color from gradient blue to gradient purple,
 Added purple Shadow behind the navbar.
 
+![image](https://github.com/user-attachments/assets/e3f12249-db6e-42a4-bc31-eb164960dad9)
+
+
+
 Update v2 at 6:53pm.
 New Feature:Change Domain Name from "webtest" to "X PPLG 1".
 Change the *btn.tombol* color from gradient to gradient purple 
