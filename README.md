@@ -25,6 +25,6 @@ Change the *btn.tombol* color from gradient to gradient purple
 Update v3 at:3:40pm
 Add Tailwind Css
 
-![apple-touch-icon](https://github.com/user-attachments/assets/155a763b-fd8a-41ad-b4df-a6e13ff0085e)
 
+![android-chrome-192x192](https://github.com/user-attachments/assets/4e9b0932-fd56-4794-b301-e96a549382bf)
 
