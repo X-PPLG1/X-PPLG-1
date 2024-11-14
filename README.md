@@ -22,5 +22,7 @@ Change the *btn.tombol* color from gradient to gradient purple
 
 
 
-Update v3 at
+Update v3 at:3:40pm
+Add Tailwind Css
+![favicon-16x16](https://github.com/user-attachments/assets/42373242-16e5-41f3-843e-b19fc9ed2128)
 
