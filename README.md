@@ -25,5 +25,6 @@ Change the *btn.tombol* color from gradient to gradient purple
 Update v3 at:3:40pm
 Add Tailwind Css
 
-![favicon-32x32](https://github.com/user-attachments/assets/158a73cd-97b5-46b8-a777-38d040538e7f)
+![apple-touch-icon](https://github.com/user-attachments/assets/155a763b-fd8a-41ad-b4df-a6e13ff0085e)
+
 
