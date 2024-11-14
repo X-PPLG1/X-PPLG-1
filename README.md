@@ -24,9 +24,10 @@ Change the *btn.tombol* color from gradient to gradient purple
 
 Update v3 at:3:40pm
 
-Add Tailwind Css
-                  ![image-removebg-preview (2)](https://github.com/user-attachments/assets/151e6749-ab3a-49c2-9420-3df98e0ef147)
+Add Tailwind Css  ![image-removebg-preview (2)](https://github.com/user-attachments/assets/0cc8d579-e105-41c4-a96d-a5479f2f0401)
 
+                
+        
 
 
 
